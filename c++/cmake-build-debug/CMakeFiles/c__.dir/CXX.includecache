@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/buaawht/work/leetcode/c++/e001.cpp
+vector
+-
+unordered_map
+-
+iostream
+-
+
+/Users/buaawht/work/leetcode/c++/main.cpp
+iostream
+-
+vector
+-
+

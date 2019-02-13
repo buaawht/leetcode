@@ -3,4 +3,4 @@ project(c__)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(c__ main.cpp e001.cpp)
+add_executable(c__ main.cpp e001.cpp util.h m002.cpp e206.cpp)

@@ -4,6 +4,8 @@
 #include <vector>
 #include <unordered_map>
 #include <iostream>
+#include "util.h"
+
 using namespace std;
 
 /*1. Two Sum
@@ -21,30 +23,27 @@ return [0, 1].*/
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        unordered_map<int, int> m;
-        vector<int> res;
+        unordered_map<int, int> map;
         for (int i = 0; i < nums.size(); ++i) {
-            m[nums[i]] = i;
-        }
-
-        for (int j = 0; j < nums.size() ; ++j) {
-            int other = target-nums[j];
-            if ((m.find(other) != m.end()) && (j != m[other])) {
-                res.push_back(j);
-                res.push_back(m[other]);
-                break;
+            int curr = nums[i];
+            int other = target - curr;
+            cout << "other   " << other << endl;
+            show_unorder_map(map);
+            if (map.count(other) == 1) {
+                return vector<int> {i, map.at(other)};
+            } else {
+                map[curr] = i;
             }
         }
-        return res;
+        return vector<int>();
     }
 };
 
 int main() {
-
     Solution solution;
     std::vector<int> v = {7, 5, 16, 8};
-    solution.twoSum(v, 15);
-    for(int a : v) {
+    vector<int> out = solution.twoSum(v, 15);
+    for(int a : out) {
         std::cout << a << std::endl;
     }
 }

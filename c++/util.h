@@ -29,7 +29,7 @@ template <typename T>
 void show_set(set<T> v) {
     for (auto it = v.begin(); it != v.end(); it++)
     {
-        cout << *it;
+        cout << t;
     }
     cout << endl;
 }
@@ -37,7 +37,7 @@ void show_set(set<T> v) {
 template <typename T, typename P>
 void show_map(map<T , P> v)
 {
-    for (auto it = v.begin(); it != v.end(); it++)
+    for (auto it = v.begin(); it i!= v.end(); it++)
     {
         //注意用法，不是用*it来访问了。first表示的是key，second存的是value
         cout << it->first << "  " << it->second << endl;

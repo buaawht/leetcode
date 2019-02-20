@@ -42,8 +42,12 @@ public:
         return rear;
     }
 
-
-    ListNode *reverseList(ListNode *head) {
+    /**
+     * 递归版本1
+     * @param head
+     * @return
+     */
+    ListNode *reverseList1(ListNode *head) {
         if (head == nullptr || head->next == nullptr) {
             return head;
         }
@@ -59,6 +63,45 @@ public:
         // 最后节点的next需要设置null
         rear->next = nullptr;
         return p;
+    }
+
+    /**
+     * 迭代版本
+     * @param head
+     * @return
+     */
+    ListNode *reverseList2(ListNode *head) {
+        if (head == nullptr || head->next == nullptr) {
+            return head;
+        }
+
+        // 1-2-3-4
+        // pre-curr-next
+        ListNode *rear = head;
+        ListNode *curr = rear->next;
+
+        while (curr != nullptr) {
+            ListNode *next = curr->next;
+            curr->next = head;
+            head = curr;
+            rear->next = next;
+            curr = rear->next;
+        }
+
+        return head;
+    }
+
+    ListNode *reverseList(ListNode *head) {
+        if (head == nullptr || head->next == nullptr) {
+            return head;
+        }
+
+        ListNode *tmp = reverseList(head->next);
+
+        head->next->next = head;
+        head->next = nullptr;
+
+        return tmp;
     }
 };
 

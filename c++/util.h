@@ -12,6 +12,7 @@
 #include <map>
 #include <unordered_map>
 #include <iostream>
+#include <stack>
 using namespace std;
 
 
@@ -29,7 +30,7 @@ template <typename T>
 void show_set(set<T> v) {
     for (auto it = v.begin(); it != v.end(); it++)
     {
-        cout << t;
+        cout << *it << ", ";
     }
     cout << endl;
 }
@@ -37,7 +38,7 @@ void show_set(set<T> v) {
 template <typename T, typename P>
 void show_map(map<T , P> v)
 {
-    for (auto it = v.begin(); it i!= v.end(); it++)
+    for (auto it = v.begin(); it!= v.end(); it++)
     {
         //注意用法，不是用*it来访问了。first表示的是key，second存的是value
         cout << it->first << "  " << it->second << endl;
@@ -71,3 +72,10 @@ void show_list_node(ListNode *head)
     cout << endl;
 }
 
+void show_stack(stack<int> s) {
+    while (!s.empty()) {
+        cout << s.top() << ", ";
+        s.pop();
+    }
+    cout << endl;
+}

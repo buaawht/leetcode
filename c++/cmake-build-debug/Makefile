@@ -150,6 +150,33 @@ e001.cpp.s:
 	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/e001.cpp.s
 .PHONY : e001.cpp.s
 
+e155.o: e155.cpp.o
+
+.PHONY : e155.o
+
+# target to build an object file
+e155.cpp.o:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/e155.cpp.o
+.PHONY : e155.cpp.o
+
+e155.i: e155.cpp.i
+
+.PHONY : e155.i
+
+# target to preprocess a source file
+e155.cpp.i:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/e155.cpp.i
+.PHONY : e155.cpp.i
+
+e155.s: e155.cpp.s
+
+.PHONY : e155.s
+
+# target to generate assembly for a file
+e155.cpp.s:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/e155.cpp.s
+.PHONY : e155.cpp.s
+
 e206.o: e206.cpp.o
 
 .PHONY : e206.o
@@ -176,6 +203,33 @@ e206.s: e206.cpp.s
 e206.cpp.s:
 	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/e206.cpp.s
 .PHONY : e206.cpp.s
+
+h239.o: h239.cpp.o
+
+.PHONY : h239.o
+
+# target to build an object file
+h239.cpp.o:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/h239.cpp.o
+.PHONY : h239.cpp.o
+
+h239.i: h239.cpp.i
+
+.PHONY : h239.i
+
+# target to preprocess a source file
+h239.cpp.i:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/h239.cpp.i
+.PHONY : h239.cpp.i
+
+h239.s: h239.cpp.s
+
+.PHONY : h239.s
+
+# target to generate assembly for a file
+h239.cpp.s:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/h239.cpp.s
+.PHONY : h239.cpp.s
 
 m002.o: m002.cpp.o
 
@@ -231,6 +285,60 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+reverseStack.o: reverseStack.cpp.o
+
+.PHONY : reverseStack.o
+
+# target to build an object file
+reverseStack.cpp.o:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/reverseStack.cpp.o
+.PHONY : reverseStack.cpp.o
+
+reverseStack.i: reverseStack.cpp.i
+
+.PHONY : reverseStack.i
+
+# target to preprocess a source file
+reverseStack.cpp.i:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/reverseStack.cpp.i
+.PHONY : reverseStack.cpp.i
+
+reverseStack.s: reverseStack.cpp.s
+
+.PHONY : reverseStack.s
+
+# target to generate assembly for a file
+reverseStack.cpp.s:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/reverseStack.cpp.s
+.PHONY : reverseStack.cpp.s
+
+sortStack.o: sortStack.cpp.o
+
+.PHONY : sortStack.o
+
+# target to build an object file
+sortStack.cpp.o:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/sortStack.cpp.o
+.PHONY : sortStack.cpp.o
+
+sortStack.i: sortStack.cpp.i
+
+.PHONY : sortStack.i
+
+# target to preprocess a source file
+sortStack.cpp.i:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/sortStack.cpp.i
+.PHONY : sortStack.cpp.i
+
+sortStack.s: sortStack.cpp.s
+
+.PHONY : sortStack.s
+
+# target to generate assembly for a file
+sortStack.cpp.s:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/sortStack.cpp.s
+.PHONY : sortStack.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -243,15 +351,27 @@ help:
 	@echo "... e001.o"
 	@echo "... e001.i"
 	@echo "... e001.s"
+	@echo "... e155.o"
+	@echo "... e155.i"
+	@echo "... e155.s"
 	@echo "... e206.o"
 	@echo "... e206.i"
 	@echo "... e206.s"
+	@echo "... h239.o"
+	@echo "... h239.i"
+	@echo "... h239.s"
 	@echo "... m002.o"
 	@echo "... m002.i"
 	@echo "... m002.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... reverseStack.o"
+	@echo "... reverseStack.i"
+	@echo "... reverseStack.s"
+	@echo "... sortStack.o"
+	@echo "... sortStack.i"
+	@echo "... sortStack.s"
 .PHONY : help
 
 

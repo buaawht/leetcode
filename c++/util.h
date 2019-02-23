@@ -13,6 +13,8 @@
 #include <unordered_map>
 #include <iostream>
 #include <stack>
+#include <deque>
+#include <string>
 using namespace std;
 
 

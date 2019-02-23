@@ -7,6 +7,9 @@ file(REMOVE_RECURSE
   "CMakeFiles/c__.dir/reverseStack.cpp.o"
   "CMakeFiles/c__.dir/sortStack.cpp.o"
   "CMakeFiles/c__.dir/h239.cpp.o"
+  "CMakeFiles/c__.dir/h076.cpp.o"
+  "CMakeFiles/c__.dir/commonSortedList.cpp.o"
+  "CMakeFiles/c__.dir/m019.cpp.o"
   "c__.pdb"
   "c__"
 )

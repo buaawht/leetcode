@@ -15,6 +15,8 @@
 #include <stack>
 #include <deque>
 #include <string>
+#include <math.h>
+#include <climits>
 using namespace std;
 
 

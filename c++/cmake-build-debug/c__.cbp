@@ -106,6 +106,18 @@
 		<Unit filename="/Users/buaawht/work/leetcode/c++/m019.cpp">
 			<Option target="c__"/>
 		</Unit>
+		<Unit filename="/Users/buaawht/work/leetcode/c++/m074.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="/Users/buaawht/work/leetcode/c++/m240.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="/Users/buaawht/work/leetcode/c++/m279.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="/Users/buaawht/work/leetcode/c++/m622.cpp">
+			<Option target="c__"/>
+		</Unit>
 		<Unit filename="/Users/buaawht/work/leetcode/c++/main.cpp">
 			<Option target="c__"/>
 		</Unit>

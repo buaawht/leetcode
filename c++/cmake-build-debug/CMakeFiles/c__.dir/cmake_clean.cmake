@@ -10,6 +10,10 @@ file(REMOVE_RECURSE
   "CMakeFiles/c__.dir/h076.cpp.o"
   "CMakeFiles/c__.dir/commonSortedList.cpp.o"
   "CMakeFiles/c__.dir/m019.cpp.o"
+  "CMakeFiles/c__.dir/m279.cpp.o"
+  "CMakeFiles/c__.dir/m074.cpp.o"
+  "CMakeFiles/c__.dir/m240.cpp.o"
+  "CMakeFiles/c__.dir/m622.cpp.o"
   "c__.pdb"
   "c__"
 )

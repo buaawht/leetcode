@@ -252,6 +252,136 @@ CMakeFiles/c__.dir/m622.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/c__.dir/m622.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/buaawht/work/leetcode/c++/m622.cpp -o CMakeFiles/c__.dir/m622.cpp.s
 
+CMakeFiles/c__.dir/m200.cpp.o: CMakeFiles/c__.dir/flags.make
+CMakeFiles/c__.dir/m200.cpp.o: ../m200.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/buaawht/work/leetcode/c++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/c__.dir/m200.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/c__.dir/m200.cpp.o -c /Users/buaawht/work/leetcode/c++/m200.cpp
+
+CMakeFiles/c__.dir/m200.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/c__.dir/m200.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/buaawht/work/leetcode/c++/m200.cpp > CMakeFiles/c__.dir/m200.cpp.i
+
+CMakeFiles/c__.dir/m200.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/c__.dir/m200.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/buaawht/work/leetcode/c++/m200.cpp -o CMakeFiles/c__.dir/m200.cpp.s
+
+CMakeFiles/c__.dir/bfs.cpp.o: CMakeFiles/c__.dir/flags.make
+CMakeFiles/c__.dir/bfs.cpp.o: ../bfs.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/buaawht/work/leetcode/c++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/c__.dir/bfs.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/c__.dir/bfs.cpp.o -c /Users/buaawht/work/leetcode/c++/bfs.cpp
+
+CMakeFiles/c__.dir/bfs.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/c__.dir/bfs.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/buaawht/work/leetcode/c++/bfs.cpp > CMakeFiles/c__.dir/bfs.cpp.i
+
+CMakeFiles/c__.dir/bfs.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/c__.dir/bfs.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/buaawht/work/leetcode/c++/bfs.cpp -o CMakeFiles/c__.dir/bfs.cpp.s
+
+CMakeFiles/c__.dir/dfs.cpp.o: CMakeFiles/c__.dir/flags.make
+CMakeFiles/c__.dir/dfs.cpp.o: ../dfs.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/buaawht/work/leetcode/c++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/c__.dir/dfs.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/c__.dir/dfs.cpp.o -c /Users/buaawht/work/leetcode/c++/dfs.cpp
+
+CMakeFiles/c__.dir/dfs.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/c__.dir/dfs.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/buaawht/work/leetcode/c++/dfs.cpp > CMakeFiles/c__.dir/dfs.cpp.i
+
+CMakeFiles/c__.dir/dfs.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/c__.dir/dfs.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/buaawht/work/leetcode/c++/dfs.cpp -o CMakeFiles/c__.dir/dfs.cpp.s
+
+CMakeFiles/c__.dir/m496.cpp.o: CMakeFiles/c__.dir/flags.make
+CMakeFiles/c__.dir/m496.cpp.o: ../m496.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/buaawht/work/leetcode/c++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/c__.dir/m496.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/c__.dir/m496.cpp.o -c /Users/buaawht/work/leetcode/c++/m496.cpp
+
+CMakeFiles/c__.dir/m496.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/c__.dir/m496.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/buaawht/work/leetcode/c++/m496.cpp > CMakeFiles/c__.dir/m496.cpp.i
+
+CMakeFiles/c__.dir/m496.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/c__.dir/m496.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/buaawht/work/leetcode/c++/m496.cpp -o CMakeFiles/c__.dir/m496.cpp.s
+
+CMakeFiles/c__.dir/m503.cpp.o: CMakeFiles/c__.dir/flags.make
+CMakeFiles/c__.dir/m503.cpp.o: ../m503.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/buaawht/work/leetcode/c++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/c__.dir/m503.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/c__.dir/m503.cpp.o -c /Users/buaawht/work/leetcode/c++/m503.cpp
+
+CMakeFiles/c__.dir/m503.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/c__.dir/m503.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/buaawht/work/leetcode/c++/m503.cpp > CMakeFiles/c__.dir/m503.cpp.i
+
+CMakeFiles/c__.dir/m503.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/c__.dir/m503.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/buaawht/work/leetcode/c++/m503.cpp -o CMakeFiles/c__.dir/m503.cpp.s
+
+CMakeFiles/c__.dir/m556.cpp.o: CMakeFiles/c__.dir/flags.make
+CMakeFiles/c__.dir/m556.cpp.o: ../m556.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/buaawht/work/leetcode/c++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/c__.dir/m556.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/c__.dir/m556.cpp.o -c /Users/buaawht/work/leetcode/c++/m556.cpp
+
+CMakeFiles/c__.dir/m556.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/c__.dir/m556.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/buaawht/work/leetcode/c++/m556.cpp > CMakeFiles/c__.dir/m556.cpp.i
+
+CMakeFiles/c__.dir/m556.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/c__.dir/m556.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/buaawht/work/leetcode/c++/m556.cpp -o CMakeFiles/c__.dir/m556.cpp.s
+
+CMakeFiles/c__.dir/e202.cpp.o: CMakeFiles/c__.dir/flags.make
+CMakeFiles/c__.dir/e202.cpp.o: ../e202.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/buaawht/work/leetcode/c++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/c__.dir/e202.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/c__.dir/e202.cpp.o -c /Users/buaawht/work/leetcode/c++/e202.cpp
+
+CMakeFiles/c__.dir/e202.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/c__.dir/e202.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/buaawht/work/leetcode/c++/e202.cpp > CMakeFiles/c__.dir/e202.cpp.i
+
+CMakeFiles/c__.dir/e202.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/c__.dir/e202.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/buaawht/work/leetcode/c++/e202.cpp -o CMakeFiles/c__.dir/e202.cpp.s
+
+CMakeFiles/c__.dir/e263.cpp.o: CMakeFiles/c__.dir/flags.make
+CMakeFiles/c__.dir/e263.cpp.o: ../e263.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/buaawht/work/leetcode/c++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/c__.dir/e263.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/c__.dir/e263.cpp.o -c /Users/buaawht/work/leetcode/c++/e263.cpp
+
+CMakeFiles/c__.dir/e263.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/c__.dir/e263.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/buaawht/work/leetcode/c++/e263.cpp > CMakeFiles/c__.dir/e263.cpp.i
+
+CMakeFiles/c__.dir/e263.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/c__.dir/e263.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/buaawht/work/leetcode/c++/e263.cpp -o CMakeFiles/c__.dir/e263.cpp.s
+
+CMakeFiles/c__.dir/m246.cpp.o: CMakeFiles/c__.dir/flags.make
+CMakeFiles/c__.dir/m246.cpp.o: ../m246.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/buaawht/work/leetcode/c++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/c__.dir/m246.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/c__.dir/m246.cpp.o -c /Users/buaawht/work/leetcode/c++/m246.cpp
+
+CMakeFiles/c__.dir/m246.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/c__.dir/m246.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/buaawht/work/leetcode/c++/m246.cpp > CMakeFiles/c__.dir/m246.cpp.i
+
+CMakeFiles/c__.dir/m246.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/c__.dir/m246.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/buaawht/work/leetcode/c++/m246.cpp -o CMakeFiles/c__.dir/m246.cpp.s
+
+CMakeFiles/c__.dir/e796.cpp.o: CMakeFiles/c__.dir/flags.make
+CMakeFiles/c__.dir/e796.cpp.o: ../e796.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/buaawht/work/leetcode/c++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/c__.dir/e796.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/c__.dir/e796.cpp.o -c /Users/buaawht/work/leetcode/c++/e796.cpp
+
+CMakeFiles/c__.dir/e796.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/c__.dir/e796.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/buaawht/work/leetcode/c++/e796.cpp > CMakeFiles/c__.dir/e796.cpp.i
+
+CMakeFiles/c__.dir/e796.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/c__.dir/e796.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/buaawht/work/leetcode/c++/e796.cpp -o CMakeFiles/c__.dir/e796.cpp.s
+
 # Object files for target c__
 c___OBJECTS = \
 "CMakeFiles/c__.dir/main.cpp.o" \
@@ -268,7 +398,17 @@ c___OBJECTS = \
 "CMakeFiles/c__.dir/m279.cpp.o" \
 "CMakeFiles/c__.dir/m074.cpp.o" \
 "CMakeFiles/c__.dir/m240.cpp.o" \
-"CMakeFiles/c__.dir/m622.cpp.o"
+"CMakeFiles/c__.dir/m622.cpp.o" \
+"CMakeFiles/c__.dir/m200.cpp.o" \
+"CMakeFiles/c__.dir/bfs.cpp.o" \
+"CMakeFiles/c__.dir/dfs.cpp.o" \
+"CMakeFiles/c__.dir/m496.cpp.o" \
+"CMakeFiles/c__.dir/m503.cpp.o" \
+"CMakeFiles/c__.dir/m556.cpp.o" \
+"CMakeFiles/c__.dir/e202.cpp.o" \
+"CMakeFiles/c__.dir/e263.cpp.o" \
+"CMakeFiles/c__.dir/m246.cpp.o" \
+"CMakeFiles/c__.dir/e796.cpp.o"
 
 # External object files for target c__
 c___EXTERNAL_OBJECTS =
@@ -288,9 +428,19 @@ c__: CMakeFiles/c__.dir/m279.cpp.o
 c__: CMakeFiles/c__.dir/m074.cpp.o
 c__: CMakeFiles/c__.dir/m240.cpp.o
 c__: CMakeFiles/c__.dir/m622.cpp.o
+c__: CMakeFiles/c__.dir/m200.cpp.o
+c__: CMakeFiles/c__.dir/bfs.cpp.o
+c__: CMakeFiles/c__.dir/dfs.cpp.o
+c__: CMakeFiles/c__.dir/m496.cpp.o
+c__: CMakeFiles/c__.dir/m503.cpp.o
+c__: CMakeFiles/c__.dir/m556.cpp.o
+c__: CMakeFiles/c__.dir/e202.cpp.o
+c__: CMakeFiles/c__.dir/e263.cpp.o
+c__: CMakeFiles/c__.dir/m246.cpp.o
+c__: CMakeFiles/c__.dir/e796.cpp.o
 c__: CMakeFiles/c__.dir/build.make
 c__: CMakeFiles/c__.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/buaawht/work/leetcode/c++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking CXX executable c__"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/buaawht/work/leetcode/c++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Linking CXX executable c__"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/c__.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

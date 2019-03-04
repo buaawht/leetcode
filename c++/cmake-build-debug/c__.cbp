@@ -82,7 +82,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/buaawht/work/leetcode/c++/bfs.cpp">
+			<Option target="c__"/>
+		</Unit>
 		<Unit filename="/Users/buaawht/work/leetcode/c++/commonSortedList.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="/Users/buaawht/work/leetcode/c++/dfs.cpp">
 			<Option target="c__"/>
 		</Unit>
 		<Unit filename="/Users/buaawht/work/leetcode/c++/e001.cpp">
@@ -91,7 +97,16 @@
 		<Unit filename="/Users/buaawht/work/leetcode/c++/e155.cpp">
 			<Option target="c__"/>
 		</Unit>
+		<Unit filename="/Users/buaawht/work/leetcode/c++/e202.cpp">
+			<Option target="c__"/>
+		</Unit>
 		<Unit filename="/Users/buaawht/work/leetcode/c++/e206.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="/Users/buaawht/work/leetcode/c++/e263.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="/Users/buaawht/work/leetcode/c++/e796.cpp">
 			<Option target="c__"/>
 		</Unit>
 		<Unit filename="/Users/buaawht/work/leetcode/c++/h076.cpp">
@@ -109,10 +124,25 @@
 		<Unit filename="/Users/buaawht/work/leetcode/c++/m074.cpp">
 			<Option target="c__"/>
 		</Unit>
+		<Unit filename="/Users/buaawht/work/leetcode/c++/m200.cpp">
+			<Option target="c__"/>
+		</Unit>
 		<Unit filename="/Users/buaawht/work/leetcode/c++/m240.cpp">
 			<Option target="c__"/>
 		</Unit>
+		<Unit filename="/Users/buaawht/work/leetcode/c++/m246.cpp">
+			<Option target="c__"/>
+		</Unit>
 		<Unit filename="/Users/buaawht/work/leetcode/c++/m279.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="/Users/buaawht/work/leetcode/c++/m496.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="/Users/buaawht/work/leetcode/c++/m503.cpp">
+			<Option target="c__"/>
+		</Unit>
+		<Unit filename="/Users/buaawht/work/leetcode/c++/m556.cpp">
 			<Option target="c__"/>
 		</Unit>
 		<Unit filename="/Users/buaawht/work/leetcode/c++/m622.cpp">

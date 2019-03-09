@@ -771,6 +771,33 @@ reverseStack.cpp.s:
 	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/reverseStack.cpp.s
 .PHONY : reverseStack.cpp.s
 
+sort.o: sort.cpp.o
+
+.PHONY : sort.o
+
+# target to build an object file
+sort.cpp.o:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/sort.cpp.o
+.PHONY : sort.cpp.o
+
+sort.i: sort.cpp.i
+
+.PHONY : sort.i
+
+# target to preprocess a source file
+sort.cpp.i:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/sort.cpp.i
+.PHONY : sort.cpp.i
+
+sort.s: sort.cpp.s
+
+.PHONY : sort.s
+
+# target to generate assembly for a file
+sort.cpp.s:
+	$(MAKE) -f CMakeFiles/c__.dir/build.make CMakeFiles/c__.dir/sort.cpp.s
+.PHONY : sort.cpp.s
+
 sortStack.o: sortStack.cpp.o
 
 .PHONY : sortStack.o
@@ -879,6 +906,9 @@ help:
 	@echo "... reverseStack.o"
 	@echo "... reverseStack.i"
 	@echo "... reverseStack.s"
+	@echo "... sort.o"
+	@echo "... sort.i"
+	@echo "... sort.s"
 	@echo "... sortStack.o"
 	@echo "... sortStack.i"
 	@echo "... sortStack.s"

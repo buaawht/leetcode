@@ -24,6 +24,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/c__.dir/e263.cpp.o"
   "CMakeFiles/c__.dir/m246.cpp.o"
   "CMakeFiles/c__.dir/e796.cpp.o"
+  "CMakeFiles/c__.dir/sort.cpp.o"
   "c__.pdb"
   "c__"
 )

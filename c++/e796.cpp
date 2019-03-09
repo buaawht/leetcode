@@ -32,18 +32,12 @@ public:
         u_long size = A.length();
 
         for (int i = 0; i < size; ++i) {
-            int j = 0;
-            for (j = 0; j < size; ++j) {
-                if (B[i % size] != A[j]) {
-                    break;
-                }
-            }
-            if (j == size - 1) {
+            if (B.substr(i, size - i) + B.substr(0, i) == A) {
                 return true;
             }
         }
 
-        return false;
+        return size == 0;
     }
 };
 
@@ -51,5 +45,5 @@ int main() {
     string str = "hello";
     cout << str << str.length() << ", " << str.size() << endl;
     Solution solution;
-    cout << "abcdef: " <<solution.rotateString("abcdef", "efabcd");
+    cout << "abcde: " << solution.rotateString("abbccd", "cdabbc") << endl;
 };

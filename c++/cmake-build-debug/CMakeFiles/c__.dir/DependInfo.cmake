@@ -28,6 +28,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/buaawht/work/leetcode/c++/m622.cpp" "/Users/buaawht/work/leetcode/c++/cmake-build-debug/CMakeFiles/c__.dir/m622.cpp.o"
   "/Users/buaawht/work/leetcode/c++/main.cpp" "/Users/buaawht/work/leetcode/c++/cmake-build-debug/CMakeFiles/c__.dir/main.cpp.o"
   "/Users/buaawht/work/leetcode/c++/reverseStack.cpp" "/Users/buaawht/work/leetcode/c++/cmake-build-debug/CMakeFiles/c__.dir/reverseStack.cpp.o"
+  "/Users/buaawht/work/leetcode/c++/sort.cpp" "/Users/buaawht/work/leetcode/c++/cmake-build-debug/CMakeFiles/c__.dir/sort.cpp.o"
   "/Users/buaawht/work/leetcode/c++/sortStack.cpp" "/Users/buaawht/work/leetcode/c++/cmake-build-debug/CMakeFiles/c__.dir/sortStack.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
